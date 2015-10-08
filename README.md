@@ -3,14 +3,11 @@ Project: Flapper-news (reddit like website)
 
 Required Libraries and Dependencies
 -----------------------------------
-* Make sure you have `node.js` installed 
-* Requires 'MongoDB' to be installed
-
+* Make sure you have `node.js` and `mongodb` installed 
 
 How to Run Project
 ------------------
 To run this project:
-
 * Navigate to flapper-news directory in terminal
 * open seperate tab in terminal in same directory and use command mongod to turn on mongo
 * use command npm start to start node.js server
